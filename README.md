@@ -1,6 +1,6 @@
-# Vocal Type Classification
+# Singing Type Classification
 <br>
-In this project I have created a vocal type classification system. I have used vggish model to get embedding for the input data and then created a custom artificial neural network model to get the final classification output. <br><br>
+In this project I have created a singing type classification system. I have used vggish model to get embedding for the input data and then created a custom artificial neural network model to get the final classification output. <br><br>
 For this task I have used the Vocalset Dataset. The dataset contains audio clips from multiple different singers categorised by the vocal type, vowels and singers. <br><br>
 <a href='https://zenodo.org/records/1193957'>Dataset Link<a/><br><br>
 These are the following 17 different vocal types that the model can identify -: <br>
