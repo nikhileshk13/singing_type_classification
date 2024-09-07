@@ -25,9 +25,3 @@ These are the following 17 different vocal types that the model can identify -: 
 * Trillo <br>
 * Vibrato <br>
 * Vocal Fry <br>
-
-<ul>
-<li>1</li>
-<li>1</li>
-<li>1</li>
-</ul>
