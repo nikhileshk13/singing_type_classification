@@ -10,20 +10,19 @@ For this task I have used the Vocalset Dataset. The dataset contains audio clips
 These are the following 17 different vocal types that the model can identify -: <br>
 <ul>
 <li>Belt
-<li>Breathy<\li>
-<li>Fast Forte<\li>
-<li>Fast Piano<\li>
-<li>Forte<\li>
-<li>Inhaled<\li>
-<li>Lip Trill<\li>
-<li>Messa<\li>
-<li>Pianissimo<\li>
-<li>Slow Forte<\li>
-<li>Slow Piano<\li>
-<li>Spoken<\li>
-<li>Straight<\li>
-<li>Trill<\li>
-<li>Trillo<\li>
-<li>Vibrato<\li>
-<li>Vocal Fry<\li>
-<\ul>
+<li>Breathy
+<li>Fast Forte
+<li>Fast Piano
+<li>Forte
+<li>Inhaled
+<li>Lip Trill
+<li>Messa
+<li>Pianissimo
+<li>Slow Forte
+<li>Slow Piano
+<li>Spoken
+<li>Straight
+<li>Trill
+<li>Trillo
+<li>Vibrato
+<li>Vocal Fry</li>
