@@ -8,20 +8,22 @@ Here is the model summary for the custom artificial neural network mode -: <br>
 For this task I have used the Vocalset Dataset. The dataset contains audio clips from multiple different singers categorised by the vocal type, vowels and singers. <br><br>
 <a href='https://zenodo.org/records/1193957'>Dataset Link<a/><br><br>
 These are the following 17 different vocal types that the model can identify -: <br>
-* Belt <br>
-* Breathy <br>
-* Fast Forte <br>
-* Fast Piano <br>
-* Forte <br>
-* Inhaled <br>
-* Lip Trill <br>
-* Messa <br>
-* Pianissimo <br>
-* Slow Forte <br>
-* Slow Piano <br>
-* Spoken <br>
-* Straight <br>
-* Trill <br>
-* Trillo <br>
-* Vibrato <br>
-* Vocal Fry <br>
+<ul>
+<li>Belt<\li>
+<li>Breathy<\li>
+<li>Fast Forte<\li>
+<li>Fast Piano<\li>
+<li>Forte<\li>
+<li>Inhaled<\li>
+<li>Lip Trill<\li>
+<li>Messa<\li>
+<li>Pianissimo<\li>
+<li>Slow Forte<\li>
+<li>Slow Piano<\li>
+<li>Spoken<\li>
+<li>Straight<\li>
+<li>Trill<\li>
+<li>Trillo<\li>
+<li>Vibrato<\li>
+<li>Vocal Fry<\li>
+<\ul>
