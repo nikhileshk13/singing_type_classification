@@ -9,7 +9,7 @@ For this task I have used the Vocalset Dataset. The dataset contains audio clips
 <a href='https://zenodo.org/records/1193957'>Dataset Link<a/><br><br>
 These are the following 17 different vocal types that the model can identify -: <br>
 <ul>
-<li>Belt<\li>
+<li>Belt
 <li>Breathy<\li>
 <li>Fast Forte<\li>
 <li>Fast Piano<\li>
